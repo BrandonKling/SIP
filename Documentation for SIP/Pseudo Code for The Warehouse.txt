@@ -1,0 +1,14 @@
+"The Warehouse"
+
+Create functions for user interface.
+
+Create a character name creator so the story can use the players chosen name.
+	Add a user input function.
+
+Create a return and quit functionality.
+
+Ability to move around from scene to scene.
+
+Display correct story text for scenes and not have it redisplay if they revisit a previous scene.
+
+Possibly create an item collection ability for carrying things.
